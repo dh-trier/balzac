@@ -4,7 +4,7 @@ This repository contains all 93 novels and short stories ('nouvelles') usually c
 
 These texts have been linguistically annotated using TreeTagger and prepared for use with the TXM text analysis tool. The XML files produced by TXM are also provided here (folder: XML-TXM). 
 
-A binary version of this annotated corpus for direct loading into TXM is available here: [Zenodo]. 
+A binary version of this annotated corpus for direct loading into TXM is available here: https://zenodo.org/record/3747384, DOI: https://doi.org/10.5281/zenodo.3747383
 
 ## Version 
 
